@@ -1,3 +1,19 @@
+RESUME BUILDER REACT APPLICATION
+
+  You can install all the npm dependencies using the command "npm install"
+   
+  after that you can start the application with the command "npm start"
+ 
+APPLICATION FEATURES
+      
+   A resume builder application with basic template and conversion to pdf option.
+   Various input fields are allowed users to use their own.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
